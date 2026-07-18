@@ -1,0 +1,26 @@
+{
+  "name": "Voyage à Hainan 2026",
+  "short_name": "Hainan 2026",
+  "description": "Notre carnet de voyage à Hainan, du 14 au 25 août 2026.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4eee4",
+  "theme_color": "#f4eee4",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
