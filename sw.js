@@ -1,4 +1,4 @@
-const CACHE_NAME = "hainan-2026-v1";
+const CACHE_NAME = "hainan-2026-v2";
 const CORE_ASSETS = ["/", "/manifest.webmanifest", "/icons/icon-192.png", "/icons/icon-512.png"];
 
 self.addEventListener("install", (event) => {
